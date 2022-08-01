@@ -59,4 +59,4 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/ing-junyoung/Paper/blob/main/GAN/AnoGAN/Supplement/Conclusion_summary2.PNG">
+<img src="https://github.com/ing-junyoung/Paper/blob/main/GAN/AnoGAN/Supplement/Colclusion_summary2.PNG">
