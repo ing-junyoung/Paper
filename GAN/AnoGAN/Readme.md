@@ -1,7 +1,7 @@
 <br>
 <br>
 
-# Keras source code of AnoGAN
+# AnoGAN Paper Review
 <br>
 <br>
 <br>
